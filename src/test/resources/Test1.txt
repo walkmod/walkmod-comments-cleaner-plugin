@@ -1,0 +1,10 @@
+/**
+ */
+private class Foo {
+
+    public void bar() {
+        int i;
+        // comment
+    }
+}
+
